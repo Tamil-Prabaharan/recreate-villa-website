@@ -48,6 +48,8 @@ const App = () => {
           <img src={backone} alt="none" className='backimg' style={{opacity:'0.5'}}></img>
           <div className='backgradient' style={{ backgroundColor: 'yellow',marginTop:'-700px'}}></div>
 
+        <div></div>
+
         <div className='h'>
 
         </div>
